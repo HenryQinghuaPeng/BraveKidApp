@@ -6,13 +6,13 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated: [Date]
+Last updated: April 20th, 2026
 
-This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use the **[App Name]** mobile application.
+This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use the **BraveUp** mobile application.
 
 ## 1. Information Collection and Use
 
-**[App Name]** is designed to provide [Brief Description of App Function]. We value your privacy and aim to collect the minimum amount of data necessary.
+**BraveUp** is designed to provide daily activity to help child to grow bold and confidence. We value your privacy and aim to collect the minimum amount of data necessary.
 
 *   **Personal Data:** We do not collect any personally identifiable information (such as your name, address, or email) unless you explicitly provide it (e.g., via a support email).
 *   **Usage Data:** We may collect non-identifiable information automatically, such as your device model, operating system version, and app crash logs to improve app performance.
