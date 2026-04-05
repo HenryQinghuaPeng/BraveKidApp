@@ -42,8 +42,14 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Help your child to grow bold and confidence
+marketing_desc: 
+Each day, your child receives a fun, age-appropriate challenge — from saying "hi" to a new friend, to trying a new food, to sharing a compliment. Challenges are broken into small, manageable steps so every child can succeed at their own pace.
+✅ Evidence-based — Each challenge is backed by child psychology research 
+✅ Progress tracking — Celebrate every milestone with XP, levels, and badges 
+✅ Parent resources — Access expert articles on supporting your child's confidence journey 
+✅ Culturally inclusive — Designed for children from all backgrounds and environments
+✅ Available in 3 languages — English, 简体中文, and 日本語.
 
 #
 # Social Links
@@ -94,7 +100,7 @@ download_button_text_color: white; # Optional
 # If you want specific meta info for your <head></head> tags
 #
 title: BraveUp helps shy children discover their courage through gentle, daily challenges designed by child development experts.
-description: Each day, your child receives a fun, age-appropriate challenge — from saying "hi" to a new friend, to trying a new food, to sharing a compliment. Challenges are broken into small, manageable steps so every child can succeed at their own pace.
+description: 
 
 #
 # Google Analytics
