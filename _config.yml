@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: BraveUp helps shy children discover their courage through gentle, daily challenges designed by child development experts.
+description: Each day, your child receives a fun, age-appropriate challenge — from saying "hi" to a new friend, to trying a new food, to sharing a compliment. Challenges are broken into small, manageable steps so every child can succeed at their own pace.
 
 #
 # Google Analytics
