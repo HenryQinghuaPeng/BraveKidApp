@@ -24,6 +24,8 @@ You may not use this application to engage in any unlawful activities, nor may y
 
 To the fullest extent permitted by law, the developer shall not be held liable for any direct or indirect damages arising from the use of this application.
 
+**This app cannot replace psychological counseling, guidance, or therapy.**
+
 **5. Updates to Terms**
 
 We may update these terms from time to time; the updated version shall become effective upon its publication.
