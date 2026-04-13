@@ -27,4 +27,5 @@ The App does not contain any third-party SDKs or advertising services.
 **5. Contact Us**
 
 If you have any questions, please contact: henry.qinghua.peng@gmail.com
-Effective Date: April 13, 2026
+
+Updated Date: April 13, 2026
