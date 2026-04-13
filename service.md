@@ -29,4 +29,5 @@ To the fullest extent permitted by law, the developer shall not be held liable f
 **5. Updates to Terms**
 
 We may update these terms from time to time; the updated version shall become effective upon its publication.
+
 Contact Email: henry.qinghua.peng@gmail.com
