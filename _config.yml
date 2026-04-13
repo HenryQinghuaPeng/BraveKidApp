@@ -9,7 +9,7 @@
 #
 app:
   name: BraveKid # REQUIRED - Enter your app name
-  ios_id: xxxxxxxxxx # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: 6761747331 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -62,7 +62,7 @@ social-links:
   twitter:
   pinterest:
   instagram:
-  email: pength@yeah.net
+  email: henry.qinghua.peng@gmail.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
