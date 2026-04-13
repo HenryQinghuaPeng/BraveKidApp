@@ -6,38 +6,25 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated: April 20th, 2026
+This policy applies to the Bravekid App (hereinafter referred to as "the App").
 
-This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use the **BraveUp** mobile application.
+**1. Data Collection and Use**
 
-## 1. Information Collection and Use
+We deeply understand the importance of privacy. As the App does not require registration or login, we do not collect, upload, or store any of your personally identifiable information (such as your name, email address, or mobile phone number).
 
-**BraveUp** is designed to provide daily activity to help child to grow bold and confidence. We value your privacy and aim to collect the minimum amount of data necessary.
+**2. Local Storage**
 
-*   **Personal Data:** We do not collect any personally identifiable information (such as your name, address, or email) unless you explicitly provide it (e.g., via a support email).
-*   **Usage Data:** We may collect non-identifiable information automatically, such as your device model, operating system version, and app crash logs to improve app performance.
+All data generated during your use of the App (e.g., your child's profile data, challenge records, badges, etc.) is stored exclusively on your local device. The App does not utilize a backend server; therefore, we are unable to access, read, or retrieve any of your locally stored data.
 
-## 2. Third-Party Services
+**3. Data Security and Backup**
 
-We may use third-party services that collect information used to identify you:
-*   [e.g., Google Analytics for Firebase]
-*   [e.g., AdMob (if you show ads)]
+Since your data is stored solely on your local device, if you uninstall the App or switch to a new mobile device without performing a system backup, the associated data will be lost. We are unable to recover any deleted data for you.
 
-## 3. Data Security
+**4. Third-Party Services**
 
-The security of your data is important to us, but remember that no method of transmission over the internet or method of electronic storage is 100% secure. We strive to use commercially acceptable means to protect your information.
+The App does not contain any third-party SDKs or advertising services.
 
-## 4. Children's Privacy
+**5. Contact Us**
 
-Our App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
-
-## 5. Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-## 6. Contact Us
-
-If you have any questions about this Privacy Policy, you can contact us:
-
-*   By email: pength@yeah.net
-*   Website: https://henryqinghuapeng.github.io/BraveupApp-landing-page/
+If you have any questions, please contact: henry.qinghua.peng@gmail.com
+Effective Date: April 13, 2026
