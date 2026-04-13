@@ -6,36 +6,25 @@ permalink: /service/
 
 # Terms of Service
 
-**Last Updated:** April 20th, 2026
+Welcome to Bravekid. Before using this application, please read the following terms:
 
-Welcome to **BraveUp**. These Terms of Service ("Terms") govern your use of the **BraveUp** mobile application (the "Service"), developed by **us** .
+**1. Service Description**
 
-By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access the Service.
+This application provides you with a service designed to "boost a child's boldness and confidence by completing daily challenge tasks." This application is provided on an "as-is" basis, and we do not guarantee that any specific features will remain unchanged indefinitely.
 
----
+**2. User Responsibilities**
 
-### 1. Use of the Service
-*   **Eligibility:** You must be at least 4+ years old to use this App.
-*   **Prohibited Activities:** You agree not to use the Service for any illegal or unauthorized purpose.
-*   **Responsibility:** You are responsible for any activity that occurs through your use of the App and for maintaining the security of your device.
+You understand and agree that, since all data is stored exclusively on your local device, you are solely responsible for the security of your device and for backing up your data. The developer assumes no liability for any data loss resulting from device loss, device damage, or the uninstallation of the application.
 
-### 2. Intellectual Property
-The Service and its original content (excluding content provided by users), features, and functionality are and will remain the exclusive property of **pength@yeah.net**. The App is protected by copyright, trademark, and other laws.
+**3. Prohibited Activities**
 
-### 3. Termination
-We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
+You may not use this application to engage in any unlawful activities, nor may you attempt to reverse-engineer or illegally crack the application.
 
-### 4. Limitation of Liability
-To the maximum extent permitted by applicable law, **pength@yeah.net** shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service.
+**4. Disclaimer of Warranties**
 
-### 5. "AS IS" Disclaimer
-Your use of the Service is at your sole risk. The Service is provided on an **"AS IS"** and **"AS AVAILABLE"** basis. We disclaim all warranties of any kind, whether express or implied.
+To the fullest extent permitted by law, the developer shall not be held liable for any direct or indirect damages arising from the use of this application.
 
-### 6. Changes to Terms
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. We will provide notice of any significant changes by updating the "Last Updated" date at the top of this page.
+**5. Updates to Terms**
 
-### 7. Contact Us
-If you have any questions about these Terms, please contact us at:
-
-*   **Email:** pength@yeah.net
-*   **Website:** https://henryqinghuapeng.github.io/BraveupApp-landing-page/
+We may update these terms from time to time; the updated version shall become effective upon its publication.
+Contact Email: henry.qinghua.peng@gmail.com
