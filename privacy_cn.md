@@ -3,7 +3,11 @@ layout: default
 title: Privacy Policy
 permalink: /privacy_cn/
 --- 
-
+<style>
+  body {
+    padding: 0 20px;
+  }
+</style>
 # Bravekid 隐私政策
 
 本政策适用于 Bravekid App（以下简称“本应用”）。
