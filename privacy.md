@@ -5,7 +5,7 @@ permalink: /privacy/
 --- 
 <style>
   body {
-    padding: 0 10%;
+    padding: 0 20px;
   }
 </style>
 # Privacy Policy
