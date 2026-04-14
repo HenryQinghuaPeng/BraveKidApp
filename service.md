@@ -3,7 +3,11 @@ layout: default
 title: Terms of Service
 permalink: /service/
 --- 
-
+<style>
+  body {
+    padding: 0 20px;
+  }
+</style>
 # Terms of Service
 
 Welcome to Bravekid. Before using this application, please read the following terms:
