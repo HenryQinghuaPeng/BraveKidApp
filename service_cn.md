@@ -3,7 +3,11 @@ layout: default
 title: Terms of Service CN
 permalink: /service_cn/
 --- 
-
+<style>
+  body {
+    padding: 0 20px;
+  }
+</style>
 # Bravekid 服务协议
 
 欢迎使用 Bravekid。在使用本应用前，请阅读以下条款：
