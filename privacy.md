@@ -3,7 +3,11 @@ layout: default
 title: Privacy Policy
 permalink: /privacy/
 --- 
-
+<style>
+  body {
+    padding: 0 10%;
+  }
+</style>
 # Privacy Policy
 
 This policy applies to the Bravekid App (hereinafter referred to as "the App").
